@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VerdeCoin</string>
+    <string name="loginButton">Login</string>
+    <string name="sentButton">Send</string>
+</resources>
